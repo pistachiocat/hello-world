@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hello Humans!
+I enjoy watching National Geographic and taking naps. 
